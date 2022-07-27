@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1658353094 source:c:\users\chou\desktop\tm30\tm30_0719\excel_fileopen.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Excel_fileopen.h"
+
+1658353094 c:\users\chou\desktop\tm30\tm30_0719\excel_fileopen.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\linear_interpolation.c
+	<math.h>
+	"Linear_interpolation.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\linear_interpolation.h
+
+1658354726 source:c:\users\chou\desktop\tm30\tm30_0719\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Excel_fileopen.h"
+	"Linear_interpolation.h"
+	"Parameter.h"
+	"ParameterRg.h"
+
+1658353094 source:c:\users\chou\desktop\tm30\tm30_0719\parameter.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Parameter.h"
+
+1658230342 c:\users\chou\desktop\tm30\tm30_0719\parameter.h
+
+1658354806 source:c:\users\chou\desktop\tm30\tm30_0719\parameterrg.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ParameterRg.h"
+
+1658232488 c:\users\chou\desktop\tm30\tm30_0719\parameterrg.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\bluerate_apsl.c
+	"Bluerate_APSL.h"
+	<stdlib.h>
+	<math.h>
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\bluerate_apsl.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\differential.c
+	"Differential.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\differential.h
+
+1658320493 source:c:\users\chou\desktop\tm30\tm30_0719\illuminant_spectrum.c
+	"illuminant_spectrum.h"
+	<math.h>
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\illuminant_spectrum.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\s_total.c
+	"S_total.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\s_total.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\spectrum_equation.c
+	"Spectrum_Equation.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\spectrum_equation.h
+
+1658309034 source:c:\users\chou\desktop\tm30\tm30_0719\tristimulus_values.c
+	"Tristimulus_values.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\tristimulus_values.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\uv_i_touvw.c
+	"uv_i_toUVW.h"
+	<math.h>
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\uv_i_touvw.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\xyz2xy.c
+	"XYZ2xy.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\xyz2xy.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\matrix_random.c
+	"Matrix_random.h"
+	<time.h>
+	<stdlib.h>
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\matrix_random.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\iso_therm_line.c
+	"Iso_therm_line.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\iso_therm_line.h
+
+1654912674 source:c:\users\chou\desktop\tm30\tm30_0719\transform_xyuvcd.c
+	"Transform_xyuvcd.h"
+
+1654912674 c:\users\chou\desktop\tm30\tm30_0719\transform_xyuvcd.h
+
+1658355374 source:c:\users\chou\desktop\tm30\tm30_0719\gene_algorithm.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"TM30.h"
+	"Gene_Algorithm.h"
+	"Matrix_random.h"
+	"Transform_xyuvcd.h"
+
+1658354946 c:\users\chou\desktop\tm30\tm30_0719\tm30.h
+
+1658353490 c:\users\chou\desktop\tm30\tm30_0719\gene_algorithm.h
+
+1658491654 source:c:\users\chou\desktop\tm30\tm30_0719\tm30.c
+	"TM30.h"
+	"Tristimulus_values.h"
+	"XYZ2xy.h"
+	"Illuminant_spectrum.h"
+	"Iso_therm_line.h"
+	"S_total.h"
+	"Bluerate_APSL.h"
+	"Transform_xyuvcd.h"
+	<time.h>
+	<stdlib.h>
+	"Spectrum_Equation.h"
+	"Differential.h"
+	"ParameterRg.h"
+	"Parameter.h"
+
